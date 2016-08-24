@@ -1,0 +1,1 @@
+<a href="{{ URL('users/confirm?token='.$token) }}"></a>
